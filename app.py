@@ -65,5 +65,5 @@ if st.button("🚀 Predict Fare"):
     prediction = model.predict(input_data)[0]
     
     # Display Result
-    st.metric(label="Estimated Price", value=f"₹{prediction:,.2f}")
+    st.metric(label="Estimated Price", value=f"${prediction:,.2f}")
     st.balloons()
