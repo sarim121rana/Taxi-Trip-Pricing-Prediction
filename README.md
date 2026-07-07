@@ -2,7 +2,7 @@
 
 ## 📌 Project Overview
 The **Taxi Trip Price Predictor** is an end-to-end Machine Learning regression project designed to estimate the total fare of a taxi trip based on various journey details. The project progresses from raw data cleaning and exploratory data analysis (EDA) to building, optimizing, and deploying a high-performing Random Forest regression model via a Streamlit web application.
-
+## APP Link (https://taxi-trip-pricing-prediction-36wc7zfloyxpzmxrtfhr58.streamlit.app/)
 ## ⚙️ Tech Stack
 * **Language:** Python
 * **Data Manipulation & Analysis:** Pandas, NumPy
